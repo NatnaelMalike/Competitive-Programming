@@ -9,7 +9,4 @@ class Solution:
             temp = temp-nums[start]+nums[start+k]
             sum = max(sum,temp)
             start += 1
-            
         return sum / k
-
-        
