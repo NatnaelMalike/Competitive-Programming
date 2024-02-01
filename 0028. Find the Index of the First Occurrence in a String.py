@@ -4,5 +4,4 @@ class Solution:
             if haystack[i: i+len(needle)] == needle:
                 return i
             
-        return -1
-        
+        return -1    
