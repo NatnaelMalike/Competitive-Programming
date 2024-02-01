@@ -16,5 +16,3 @@ class Solution:
             if(height[i] < min(left[i],right[i])):
                 totalSum += min(left[i],right[i]) - height[i] 
         return totalSum
-
-        
