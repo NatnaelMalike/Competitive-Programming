@@ -11,6 +11,4 @@ class Solution:
                     return 0
                 elif target>nums[len(nums)-1]:
                     return len(nums)
-
-        return nums.index(temp)+1
-        
+        return nums.index(temp)+1    
