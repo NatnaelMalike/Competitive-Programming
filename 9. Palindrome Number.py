@@ -9,5 +9,3 @@ class Solution:
             pali = (pali * 10) + rem
             x = x // 10
         return pali == num
-
-        
