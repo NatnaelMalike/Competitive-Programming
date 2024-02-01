@@ -18,7 +18,3 @@ class Solution:
              if reverse < -2147483648 or reverse > 2147483647:
                 return 0
              return reverse
-
-
-
-            
