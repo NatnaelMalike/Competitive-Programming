@@ -14,8 +14,5 @@ class Solution:
             return list1
         else:
             a=list1[len(list1)-1]
-            b=list1[0]
-            
-        
-        return [b,a]
-            
+            b=list1[0] 
+        return [b,a]     
