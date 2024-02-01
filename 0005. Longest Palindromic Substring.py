@@ -9,6 +9,5 @@ class Solution:
                 str += s[i]
                 if(str == str[::-1]):
                     if(len(palindrom) < len(str)):
-                        palindrom = str
-            
+                        palindrom = str     
         return palindrom
