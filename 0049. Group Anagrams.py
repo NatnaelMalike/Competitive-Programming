@@ -7,5 +7,4 @@ class Solution:
                 dict[so] = [word] 
             else:
                 dict[so].append(word)
-        return dict.values()
-        
+        return dict.values()       
