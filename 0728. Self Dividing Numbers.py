@@ -1,5 +1,4 @@
 class Solution:
-
     def selfDividingNumbers(self, left: int, right: int) -> List[int]:
         selfDivisible = []
         for number in range(left, right+1):
@@ -22,6 +21,3 @@ class Solution:
             if(isDivisible):
                 selfDivisible.append(number)
         return selfDivisible
-
-
-        
