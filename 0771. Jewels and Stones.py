@@ -7,9 +7,4 @@ class Solution:
                     numDic[stone] = 1
                 else:
                     numDic[stone] += 1
-
         return sum(numDic.values())
-
-        
-                
-        
