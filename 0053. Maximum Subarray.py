@@ -9,4 +9,3 @@ class Solution:
             if currentMax < 0:
                 currentMax = 0
         return maxOfAll
-        
