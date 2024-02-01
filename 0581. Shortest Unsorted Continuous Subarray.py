@@ -13,6 +13,4 @@ class Solution:
             if nums[i] != newArr[i]:
                 end = i
                 break
-        
-        return end - beg + 1
-        
+        return end - beg + 1  
