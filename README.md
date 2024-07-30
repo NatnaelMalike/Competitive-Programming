@@ -47,6 +47,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tesfa-Mk/LeetCode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
