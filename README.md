@@ -52,6 +52,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0020-valid-parentheses](https://github.com/Tesfa-Mk/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2727-number-of-senior-citizens](https://github.com/Tesfa-Mk/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
@@ -87,6 +89,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,5 +105,6 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 ## Counting
 |  |
 | ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
