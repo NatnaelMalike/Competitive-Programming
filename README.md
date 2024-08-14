@@ -80,6 +80,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0007-reverse-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
+| [2556-convert-the-temperature](https://github.com/Tesfa-Mk/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
 | ------- |
