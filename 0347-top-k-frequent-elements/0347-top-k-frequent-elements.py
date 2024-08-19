@@ -8,7 +8,7 @@ class Solution:
             else:
                 freqDict[num] = 1
         ans = sorted(freqDict.values(), reverse = True)
-        ans = ans[0:k]
+        ans = [ans[x] for x in range(k)]
         for key, value in freqDict.items():
             if value in ans:
                 res.append(key)
