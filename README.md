@@ -62,6 +62,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2727-number-of-senior-citizens](https://github.com/Tesfa-Mk/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -79,6 +80,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
+| [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -109,6 +111,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
@@ -119,6 +122,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tesfa-Mk/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Stack
 |  |
 | ------- |
@@ -142,4 +146,8 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
