@@ -8,6 +8,3 @@ class Solution:
             elif len(stack)==0 or dc[stack.pop()]!=x:
                 return False
         return len(stack)==0
-        
-            
-        
