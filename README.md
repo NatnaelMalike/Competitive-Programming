@@ -20,6 +20,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2350-find-closest-number-to-zero](https://github.com/Tesfa-Mk/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2727-number-of-senior-citizens](https://github.com/Tesfa-Mk/LeetCode/tree/master/2727-number-of-senior-citizens) |
