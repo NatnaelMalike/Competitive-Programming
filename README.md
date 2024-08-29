@@ -13,6 +13,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0018-4sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -154,6 +155,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0136-single-number) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
