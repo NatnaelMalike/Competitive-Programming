@@ -1,6 +1,6 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        conversion = {
+        d = {
             "I": 1,
             "V": 5,
             "X": 10,
@@ -10,10 +10,11 @@ class Solution:
             "M": 1000
         }
         number = 0
-        s = s.replace("IV", "IIII").replace("IX", "VIIII")
-        s = s.replace("XL", "XXXX").replace("XC", "LXXXX")
-        s = s.replace("CD", "CCCC").replace("CM", "DCCCC")
-        for rom in s:
-            number += conversion[rom]
+        for i in range(len(s)):
+            if i < len(s)-1 and d[s[i]] < d[s[i+1]]:
+                number -= d[s[i]]
+            else:
+                number += d[s[i]]
         return number
+
         
