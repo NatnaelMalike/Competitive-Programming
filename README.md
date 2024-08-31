@@ -35,6 +35,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -66,6 +67,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Tesfa-Mk/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
@@ -81,6 +83,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
