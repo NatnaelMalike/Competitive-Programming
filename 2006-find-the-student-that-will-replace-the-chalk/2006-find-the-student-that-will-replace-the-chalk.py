@@ -3,9 +3,9 @@ class Solution:
         cSum = sum(chalk)
         k %= cSum
         for i in range(len(chalk)):
-            if chalk[i] <= k:
-                k -= chalk[i]
-            else:
+            if k < chalk[i]:
                 return i
+            k -= chalk[i]
+        return 0
 
         
