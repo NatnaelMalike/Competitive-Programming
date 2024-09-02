@@ -21,6 +21,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0724-find-pivot-index](https://github.com/Tesfa-Mk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -193,4 +194,5 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Tesfa-Mk/LeetCode/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
