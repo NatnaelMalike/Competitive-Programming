@@ -12,6 +12,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0015-3sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/Tesfa-Mk/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfa-Mk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0136-single-number) |
@@ -61,6 +62,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | ------- |
 | [0015-3sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Tesfa-Mk/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
