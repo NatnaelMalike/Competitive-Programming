@@ -1,7 +1,6 @@
 class Solution:
     def missingRolls(self, rolls: List[int], mean: int, n: int) -> List[int]:
         mSum = sum(rolls)
-        res = []
         nSum = mean * (n + len(rolls)) - mSum
         if nSum > 6*n or nSum < n:
             return []
