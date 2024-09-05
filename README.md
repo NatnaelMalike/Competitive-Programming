@@ -16,6 +16,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tesfa-Mk/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Tesfa-Mk/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tesfa-Mk/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfa-Mk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | ------- |
 | [0015-3sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tesfa-Mk/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -86,6 +88,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0014-longest-common-prefix](https://github.com/Tesfa-Mk/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tesfa-Mk/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
@@ -112,6 +115,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0001-two-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
