@@ -29,6 +29,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfa-Mk/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -127,6 +128,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0009-palindrome-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
 | [2556-convert-the-temperature](https://github.com/Tesfa-Mk/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Recursion
 |  |
@@ -187,6 +189,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
 ## Enumeration
 |  |
 | ------- |
