@@ -30,6 +30,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1651-shuffle-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/1651-shuffle-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -99,6 +100,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1651-shuffle-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/1651-shuffle-string) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Tesfa-Mk/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
