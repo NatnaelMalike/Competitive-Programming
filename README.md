@@ -91,6 +91,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
@@ -120,6 +121,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
@@ -183,6 +185,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -239,4 +242,8 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tesfa-Mk/LeetCode/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
