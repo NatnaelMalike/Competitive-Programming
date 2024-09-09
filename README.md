@@ -80,6 +80,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Tesfa-Mk/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Tesfa-Mk/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tesfa-Mk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -96,6 +97,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Tesfa-Mk/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Tesfa-Mk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
@@ -128,6 +130,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Tesfa-Mk/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tesfa-Mk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
