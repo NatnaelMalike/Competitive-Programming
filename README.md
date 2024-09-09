@@ -96,6 +96,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Tesfa-Mk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
@@ -128,6 +129,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Tesfa-Mk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -197,6 +199,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Tesfa-Mk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tesfa-Mk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
