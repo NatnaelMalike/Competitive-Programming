@@ -1,9 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dict = {}
+        dic = {}
         for index, element in enumerate(nums):
-            if(target - element in dict):
-                return [index, dict[target-element]]
+            if(target - element in dic):
+                return [index, dic[target-element]]
             else:
-                dict[element] = index
+                dic[element] = index
         
