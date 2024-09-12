@@ -29,6 +29,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0136-single-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tesfa-Mk/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Tesfa-Mk/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tesfa-Mk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -176,6 +177,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Tesfa-Mk/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Tesfa-Mk/LeetCode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
@@ -258,6 +260,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Trie
 |  |
@@ -305,4 +308,8 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Tesfa-Mk/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
