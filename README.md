@@ -27,6 +27,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfa-Mk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0228-summary-ranges](https://github.com/Tesfa-Mk/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tesfa-Mk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -62,6 +63,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0075-sort-colors](https://github.com/Tesfa-Mk/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -194,6 +196,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0004-median-of-two-sorted-arrays](https://github.com/Tesfa-Mk/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tesfa-Mk/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
