@@ -6,7 +6,9 @@ class Solution:
         n = len(s)
         l, r = 0, n - 1
         while l < r:
-            s[l], s[r] = s[r], s[l]
+            te = s[l]
+            s[l] = s[r]
+            s[r] = te
             l += 1
             r -= 1
 
