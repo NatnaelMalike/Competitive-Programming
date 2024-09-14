@@ -1,20 +1,23 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        left = []
-        right = []
-        maximum = 0
-        totalSum = 0
-        for i in height:
-            maximum = max(i,maximum)
-            left.append(maximum)
-        maximum = 0
-        for i in reversed(height):
-            maximum = max(i,maximum)
-            right.append(maximum)
-        right.reverse()
+        l_walls = []
+        r_walls = []
+        max_val = 0
+        total = 0
+        for h in height:
+            if h > max_val:
+                max_val = h
+            l_walls.append(max_val)
+        max_val = 0
+        for h in reversed(height):
+            if h > max_val:
+                max_val = h
+            r_walls.append(max_val)
+        r_walls.reverse()
         for i in range(len(height)):
-            if(height[i] < min(left[i],right[i])):
-                totalSum += min(left[i],right[i]) - height[i] 
-        return totalSum
+            total += max(0,min(l_walls[i], r_walls[i]) - height[i])
+        return total
+
+
 
         
