@@ -39,6 +39,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tesfa-Mk/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Tesfa-Mk/LeetCode/tree/master/0739-daily-temperatures) |
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -228,6 +229,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Tesfa-Mk/LeetCode/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
@@ -302,6 +304,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tesfa-Mk/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Tesfa-Mk/LeetCode/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
 | ------- |
