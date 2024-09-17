@@ -36,6 +36,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0238-product-of-array-except-self](https://github.com/Tesfa-Mk/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tesfa-Mk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -157,6 +158,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tesfa-Mk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfa-Mk/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
@@ -224,6 +226,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0020-valid-parentheses](https://github.com/Tesfa-Mk/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tesfa-Mk/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
 ## Counting
 |  |
@@ -298,6 +301,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tesfa-Mk/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
