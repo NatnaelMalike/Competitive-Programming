@@ -232,6 +232,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0042-trapping-rain-water](https://github.com/Tesfa-Mk/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tesfa-Mk/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Tesfa-Mk/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tesfa-Mk/LeetCode/tree/master/0739-daily-temperatures) |
@@ -314,6 +315,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tesfa-Mk/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
@@ -343,4 +345,5 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Tesfa-Mk/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Tesfa-Mk/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
