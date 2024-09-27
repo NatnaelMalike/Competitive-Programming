@@ -1,13 +1,12 @@
 class Solution:
-    @staticmethod
-    def doBackSpace(s):
+    def backspaceCompare(self, s: str, t: str) -> bool:
+        def doBackSpace(s):
             stack = []
             for i in s:
-                if i != '#':
+                if i != "#":
                     stack.append(i)
                 elif stack:
                     stack.pop()
             return stack
-    def backspaceCompare(self, s: str, t: str) -> bool:
-        
-        return self.doBackSpace(s) == self.doBackSpace(t)
+
+        return doBackSpace(s) == doBackSpace(t)
