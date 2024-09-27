@@ -76,6 +76,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Tesfa-Mk/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Tesfa-Mk/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -125,6 +126,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0443-string-compression](https://github.com/Tesfa-Mk/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Tesfa-Mk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Tesfa-Mk/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tesfa-Mk/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfa-Mk/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -236,6 +238,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0496-next-greater-element-i](https://github.com/Tesfa-Mk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tesfa-Mk/LeetCode/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/Tesfa-Mk/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Counting
 |  |
 | ------- |
@@ -274,6 +277,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0054-spiral-matrix](https://github.com/Tesfa-Mk/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/Tesfa-Mk/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
