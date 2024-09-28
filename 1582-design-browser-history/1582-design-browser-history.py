@@ -6,7 +6,7 @@ class BrowserHistory:
         self.size = 1
 
     def visit(self, url: str) -> None:
-        if self.page_ind + 1 == len(self.pages):
+        if self.page_ind + 1 >= len(self.pages):
             self.pages.append(url)
         else:
             self.pages[self.page_ind + 1] = url
