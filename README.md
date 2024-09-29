@@ -52,6 +52,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tesfa-Mk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfa-Mk/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -81,6 +82,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Tesfa-Mk/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tesfa-Mk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
@@ -286,6 +288,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2132-convert-1d-array-into-2d-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Tesfa-Mk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Enumeration
 |  |
 | ------- |
