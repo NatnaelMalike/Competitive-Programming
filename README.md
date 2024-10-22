@@ -136,6 +136,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tesfa-Mk/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfa-Mk/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1651-shuffle-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/1651-shuffle-string) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Tesfa-Mk/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -174,6 +175,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tesfa-Mk/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfa-Mk/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -260,6 +262,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0594-longest-harmonious-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tesfa-Mk/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfa-Mk/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
