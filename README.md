@@ -59,6 +59,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2350-find-closest-number-to-zero](https://github.com/Tesfa-Mk/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2714-left-and-right-sum-differences](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Tesfa-Mk/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -326,6 +327,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1603-running-sum-of-1d-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2714-left-and-right-sum-differences](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2714-left-and-right-sum-differences) |
 ## String Matching
 |  |
 | ------- |
