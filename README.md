@@ -49,6 +49,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1582-design-browser-history](https://github.com/Tesfa-Mk/LeetCode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/1651-shuffle-string) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -182,6 +183,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Tesfa-Mk/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tesfa-Mk/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -328,6 +330,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0303-range-sum-query-immutable](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Tesfa-Mk/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2714-left-and-right-sum-differences) |
