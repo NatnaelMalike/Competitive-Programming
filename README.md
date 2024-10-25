@@ -34,6 +34,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Tesfa-Mk/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tesfa-Mk/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Tesfa-Mk/LeetCode/tree/master/0454-4sum-ii) |
@@ -108,6 +109,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Tesfa-Mk/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tesfa-Mk/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tesfa-Mk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -168,6 +170,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0128-longest-consecutive-sequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Tesfa-Mk/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Tesfa-Mk/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tesfa-Mk/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tesfa-Mk/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -210,6 +213,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0066-plus-one](https://github.com/Tesfa-Mk/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
@@ -236,6 +240,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tesfa-Mk/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
@@ -293,6 +298,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
 ## Simulation
 |  |
