@@ -47,6 +47,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1217-relative-sort-array) |
 | [1582-design-browser-history](https://github.com/Tesfa-Mk/LeetCode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/1651-shuffle-string) |
@@ -116,6 +117,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0594-longest-harmonious-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Tesfa-Mk/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -185,6 +187,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0594-longest-harmonious-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Tesfa-Mk/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1217-relative-sort-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/Tesfa-Mk/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1873-longest-nice-substring](https://github.com/Tesfa-Mk/LeetCode/tree/master/1873-longest-nice-substring) |
@@ -400,4 +403,8 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Tesfa-Mk/LeetCode/tree/master/1582-design-browser-history) |
+## Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1217-relative-sort-array) |
 <!---LeetCode Topics End-->
