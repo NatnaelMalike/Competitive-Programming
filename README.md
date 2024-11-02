@@ -129,6 +129,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0014-longest-common-prefix](https://github.com/Tesfa-Mk/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tesfa-Mk/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/Tesfa-Mk/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Tesfa-Mk/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
@@ -217,6 +218,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0007-reverse-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tesfa-Mk/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Tesfa-Mk/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Tesfa-Mk/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Tesfa-Mk/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -311,6 +313,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Tesfa-Mk/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Tesfa-Mk/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Tesfa-Mk/LeetCode/tree/master/0682-baseball-game) |
