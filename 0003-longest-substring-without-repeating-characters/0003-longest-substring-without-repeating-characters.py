@@ -4,7 +4,7 @@ class Solution:
         start = 0
         end = 0
         maxLen = 0
-        while(start < len(s) and end < len(s)):
+        while(end < len(s)):
             if s[end] not in temp:
                 temp.append(s[end])
                 end += 1
