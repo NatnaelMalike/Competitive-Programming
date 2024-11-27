@@ -66,6 +66,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2714-left-and-right-sum-differences](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/Tesfa-Mk/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -96,6 +97,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1894-merge-strings-alternately](https://github.com/Tesfa-Mk/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfa-Mk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1019-squares-of-a-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1217-relative-sort-array) |
 | [2502-sort-the-people](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
