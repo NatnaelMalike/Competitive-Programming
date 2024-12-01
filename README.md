@@ -177,6 +177,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0053-maximum-subarray](https://github.com/Tesfa-Mk/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfa-Mk/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1013-fibonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2155-find-missing-observations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2155-find-missing-observations) |
 | [2556-convert-the-temperature](https://github.com/Tesfa-Mk/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -248,6 +250,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tesfa-Mk/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tesfa-Mk/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -428,4 +431,8 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/1217-relative-sort-array) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
