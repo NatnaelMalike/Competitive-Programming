@@ -31,6 +31,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Tesfa-Mk/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Tesfa-Mk/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Tesfa-Mk/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0088-merge-sorted-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tesfa-Mk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tesfa-Mk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Tesfa-Mk/LeetCode/tree/master/0392-is-subsequence) |
@@ -237,6 +239,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [0048-rotate-image](https://github.com/Tesfa-Mk/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Tesfa-Mk/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfa-Mk/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Tesfa-Mk/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Tesfa-Mk/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Tesfa-Mk/LeetCode/tree/master/0412-fizz-buzz) |
