@@ -1,24 +1,25 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
         k = len(p)
-        res = []
-        pDict = {}
-        for i in p:
-            if i not in pDict:
-                pDict[i] = 1
+        pCount = Counter(p)
+        currWin = Counter(s[:k])
+        anas = []
+        if pCount == currWin:
+            anas.append(0)
+    
+        for i in range(len(s)-k):
+            if s[i+k] in currWin:
+                currWin[s[i+k]]  = currWin[s[i+k]] + 1
             else:
-                pDict[i] += 1
+                currWin[s[i+k]] = 1
 
-        for i in range(len(s)-k+1):
-            isAna = True
-            curWin = s[i:k+i]
-            for j in set(curWin):
-                if j not in pDict:
-                    isAna = False
-                elif curWin.count(j) != pDict[j]:
-                    isAna = False
-            if isAna:
-                res.append(i)
-        return res
-
+            if currWin[s[i]] == 1:
+                currWin.pop(s[i])
+            else:
+                currWin[s[i]] = currWin[s[i]] - 1
+                
+            if currWin == pCount:
+                anas.append(i+1)
+        return anas
+        
         
