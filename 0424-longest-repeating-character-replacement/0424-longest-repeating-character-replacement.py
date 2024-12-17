@@ -5,12 +5,12 @@ class Solution:
         char_dict = defaultdict(int)
         for r,val in enumerate(s):
             char_dict[val] += 1
-            max_count = max(max_count, char_dict[val])
+            if char_dict[val] > max_count:
+                max_count = char_dict[val]
 
-            while (r-l+1) - max_count > k:
+            if (r-l+1) - max_count > k:
                 char_dict[s[l]] -= 1
                 l += 1
-
 
         return len(s) - l
         
