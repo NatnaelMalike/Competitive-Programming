@@ -55,6 +55,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [1582-design-browser-history](https://github.com/Tesfa-Mk/LeetCode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/Tesfa-Mk/LeetCode/tree/master/1651-shuffle-string) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
