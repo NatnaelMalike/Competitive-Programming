@@ -1,19 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        dicPair = {
-            '(': ')',
-            '{': '}',
-            '[': ']'
-        }
-        if s[0] not in dicPair:
-            return False
-        stack = []
-        for bra in s:
-            if len(stack) != 0 and dicPair[stack[-1]] == bra:
-                stack.pop()
-            elif bra in dicPair:
-                stack.append(bra)
-            else:
+        dc={'(':')','{':'}','[':']'}
+        stack=[]
+        for x in s:
+            if x in dc:
+                stack.append(x)
+            elif len(stack)==0 or dc[stack.pop()]!=x:
                 return False
-        return True 
+        return len(stack)==0
+        
+            
         
