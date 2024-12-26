@@ -68,6 +68,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2265-partition-array-according-to-given-pivot](https://github.com/Tesfa-Mk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfa-Mk/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Tesfa-Mk/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2465-shifting-letters-ii](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Tesfa-Mk/LeetCode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -173,6 +174,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Tesfa-Mk/LeetCode/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tesfa-Mk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2465-shifting-letters-ii](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Tesfa-Mk/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Dynamic Programming
@@ -385,6 +387,7 @@ Welcome to my LeetCode Solutions Repository! 🚀 In this GitHub repository, you
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Tesfa-Mk/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/Tesfa-Mk/LeetCode/tree/master/2102-find-the-middle-index-in-array) |
+| [2465-shifting-letters-ii](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2465-shifting-letters-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/NatnaelMalike/Competitive-Programming/tree/master/2714-left-and-right-sum-differences) |
 ## String Matching
 |  |
