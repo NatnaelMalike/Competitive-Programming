@@ -3,12 +3,15 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        dic = Counter(nums)
-        ind = 0
-        for i in range(3):
-            for _ in range(dic[i]):
-                nums[ind] = i
-                ind += 1
-
-
+        maxN = max(nums)
+        histoG = [0] * (maxN + 1)
         
+        for i in nums:
+            histoG[i] += 1
+
+        j = 0
+        for i in range(maxN + 1):
+            for _ in range(histoG[i]):
+                nums[j] = i
+                j += 1
+       
