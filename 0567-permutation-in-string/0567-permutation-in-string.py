@@ -2,18 +2,22 @@ class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         if len(s1) > len(s2):
             return False
-        
-        s1_count = Counter(s1)
+        d_s1 = Counter(s1)
         win = Counter(s2[:len(s1)])
-        for i in range(len(s2)-len(s1)):
-            if s1_count == win:
+        l = 0
+        for r in range(len(s1),len(s2)):
+            if win == d_s1:
                 return True
-            
-            win[s2[i]] -= 1
-            if win[s2[i]] == 0:
-                del win[s2[i]]
-            win[s2[i+len(s1)]] += 1
-        return win == s1_count
-
-
-
+            if s2[r] in win:
+                win[s2[r]] += 1
+            else:
+                win[s2[r]] = 1
+            win[s2[l]] -= 1
+            if win[s2[l]] == 0:
+                del win[s2[l]]
+            l += 1
+        if win == d_s1:
+                return True
+        return False    
+        
+        
