@@ -16,15 +16,13 @@ class Solution:
             tot = v1 + v2 + carry
             carry = tot // 10
             tot = tot % 10
+            curr.next = ListNode(tot)
 
-            node = ListNode(tot)
-            curr.next = node
 
             curr = curr.next
-
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
-            
+
         return dummy.next
 
         
